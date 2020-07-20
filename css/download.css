@@ -1,0 +1,214 @@
+header.header {
+  position: relative;
+  background-color: #3E3E3E;
+}
+header.header .navbar-toggler {
+  border: none;
+  outline: none;
+}
+header.header nav.navbar {
+  position: relative;
+  z-index: 1;
+}
+header.header nav.navbar .navbar-brand img {
+  width: 50%;
+}
+header.header nav.navbar .navbar-nav {
+  padding-left: 15px;
+}
+header.header nav.navbar .navbar-nav .dropdown-menu {
+  background: rgba(0, 0, 0, 0.5);
+}
+header.header nav.navbar .navbar-nav .dropdown-menu a {
+  font-size: 14px;
+}
+header.header nav.navbar .navbar-nav li {
+  margin-right: 25px;
+  font-size: 14px;
+  border: 1px solid transparent;
+}
+header.header nav.navbar .navbar-nav li:hover {
+  border-bottom: 1px solid #FF9756;
+}
+header.header nav.navbar .navbar-nav li a {
+  font-family: 'Manrope3-Regular';
+  color: #fff !important;
+}
+header.header nav.navbar .navbar-nav li a:hover {
+  color: #FF9756 !important;
+}
+header.header nav.navbar .navbar-nav li.dropdown {
+  display: flex;
+  align-items: center;
+}
+header.header nav.navbar .navbar-nav li:last-child {
+  margin-right: 0;
+}
+header.header nav.navbar .navbar-nav li:last-child:hover {
+  border-bottom: 1px solid transparent;
+}
+header.header nav.navbar .navbar-nav li:last-child .dropdown-item:hover,
+header.header nav.navbar .navbar-nav li:last-child .dropdown-item:focus {
+  background-color: #ccc;
+}
+header.header nav.navbar .navbar-nav li:last-child a:hover {
+  color: #fff !important;
+}
+.dw-content {
+  background-color: #fdfdfd;
+  padding-top: 80px;
+}
+.dw-content .title h1 {
+  font-size: 38px;
+  line-height: 56px;
+  color: #333;
+}
+.dw-content .title h3 {
+  font-size: 22px;
+  line-height: 56px;
+  color: #333;
+}
+.dw-content .content .img {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  max-width: 174px;
+  height: 211px;
+  border: 1px solid #D9D9D9;
+}
+.dw-content .content .item h3 {
+  color: #333;
+  font-size: 18px;
+  line-height: 25px;
+}
+.dw-content .content .item a {
+  display: block;
+  width: 180px;
+  height: 40px;
+  margin-top: 5px;
+  border: 1px solid #979797;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 40px;
+}
+.dw-content .content .item a img {
+  margin-right: 9px;
+}
+.dw-content .content .item p {
+  font-size: 14px;
+  line-height: 26px;
+  color: #666666;
+  margin-top: 14px;
+  padding-right: 270px;
+}
+.dw-content .content .item .icons img {
+  border: 1px solid #D9D9D9;
+  width: 62px;
+  height: 56px;
+  padding: 10px;
+}
+.hv {
+  background-color: #fdfdfd;
+  padding-top: 32px;
+}
+.hv h1 {
+  font-size: 22px;
+  line-height: 56px;
+  margin-bottom: 16px;
+}
+.hv .list ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.hv .list ul li p {
+  position: relative;
+  padding: 20px;
+  margin: 0;
+  background: rgba(176, 199, 255, 0.2);
+  cursor: pointer;
+}
+.hv .list ul li p .rorate90 {
+  transform: rotate(90deg);
+}
+.hv .list ul li p svg {
+  position: absolute;
+  top: 24px;
+  margin-left: 6px;
+  color: #FA9656;
+  transition: all ease 0.8s;
+}
+.hv .list ul li .msg {
+  display: none;
+}
+.hv .list ul li .msg li {
+  font-size: 16px;
+  line-height: 19px;
+  color: #666;
+  margin: 13px 0 0 45px;
+}
+.footer {
+  padding-top: 100px;
+  background-color: #fffbfd;
+}
+.footer .msg {
+  border-top: 1px solid #E6E6E6;
+  border-bottom: 1px solid #E6E6E6;
+}
+.footer .msg .footer-link {
+  padding: 40px;
+}
+.footer .msg .footer-link .cen {
+  position: relative;
+  top: 50%;
+}
+.footer .msg .footer-link .cen .logo {
+  display: flex;
+  align-items: center;
+}
+.footer .msg .footer-link .cen .logo img {
+  width: 50%;
+  vertical-align: baseline;
+}
+.footer .msg .footer-link ul {
+  list-style: none;
+  margin: 20px 0;
+}
+.footer .msg .footer-link .links,
+.footer .msg .footer-link .share {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .msg .footer-link .links {
+  display: flex;
+  align-items: center;
+}
+.footer .msg .footer-link .links li {
+  margin-right: 70px;
+  font-family: 'Manrope3-Regular';
+}
+.footer .msg .footer-link .links li a {
+  color: #666666;
+  font-size: 14px;
+}
+.footer .msg .footer-link .links li a:hover {
+  font-weight: 700;
+}
+.footer .msg .footer-link .links li:nth-child(3) {
+  margin-right: 0px;
+  font-size: 14px;
+  color: #666;
+}
+.footer .msg .footer-link .links li:nth-child(3) a:hover {
+  font-family: 'Manrope3-semibold';
+}
+.footer .msg .footer-link .share li {
+  margin-right: 9px;
+}
+.footer .copyright {
+  height: 57px;
+  text-align: center;
+  line-height: 57px;
+  font-size: 12px;
+  color: #999999;
+}

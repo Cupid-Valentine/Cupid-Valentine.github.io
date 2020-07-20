@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="support-copy" transform="translate(-1193.000000, -924.000000)" fill="#FA9656">
+            <g id="Group-2" transform="translate(208.000000, 907.000000)">
+                <path d="M995,25 L1002,25 C1002.55228,25 1003,25.4477153 1003,26 C1003,26.5522847 1002.55228,27 1002,27 L995,27 L995,34 C995,34.5522847 994.552285,35 994,35 C993.447715,35 993,34.5522847 993,34 L993,27 L986,27 C985.447715,27 985,26.5522847 985,26 C985,25.4477153 985.447715,25 986,25 L993,25 L993,18 C993,17.4477153 993.447715,17 994,17 C994.552285,17 995,17.4477153 995,18 L995,25 Z" id="Combined-Shape-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="149px" viewBox="0 0 133 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>faq icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="support-copy" transform="translate(-251.000000, -395.000000)">
+            <g id="faq-icon" transform="translate(251.000000, 395.000000)">
+                <path d="M72.5769114,126.147206 C126.887657,120.103775 120.981882,113.536501 124.616387,87.2061769 C126.887657,70.7518722 118.63283,62.8157611 111.454754,54.6663388 C101.516147,43.3828263 89.9931648,30 72.5769114,30 C51.9481669,30 51.9481669,40.2637302 43.6253437,44.8535406 C28.2358215,53.3404429 24.1899736,61.2632583 24.1899736,78.4946497 C24.1899736,105.044968 18.2661663,132.190637 72.5769114,126.147206 Z" id="Oval-3" fill="#94D8D1" opacity="0.200000003"></path>
+                <circle id="Oval-4" fill="#FFFFFF" cx="75" cy="80" r="19"></circle>
+                <g id="问答" transform="translate(45.000000, 47.000000)" fill="#66B1AA" fill-rule="nonzero">
+                    <path d="M30,0 C13.4472656,0 0,13.4472656 0,30 C0,46.5527344 13.4472656,60 30,60 C46.5527344,60 60,46.5527344 60,30 C60,13.4472656 46.5527344,0 30,0 Z M30,41.8476563 C27.5332031,41.8476563 25.2246094,41.1914063 23.25,40.0371094 L16.6699219,44.6484375 L16.6699219,28.6816406 C16.6699219,21.2753906 22.7578125,15.3515625 30,15.3515625 C37.40625,15.3515625 43.3300781,21.4394531 43.3300781,28.6816406 C43.3300781,35.9238281 37.40625,41.8476563 30,41.8476563 Z" id="Shape"></path>
+                </g>
+                <circle id="Oval-5" fill="#66B1AA" opacity="0.200000003" cx="18.5" cy="25.5" r="5.5"></circle>
+                <circle id="Oval-5-Copy" fill="#66B1AA" opacity="0.200000003" cx="119.5" cy="143.5" r="5.5"></circle>
+                <circle id="Oval-5-Copy-4" fill="#66B1AA" opacity="0.149999991" cx="127.5" cy="43.5" r="5.5"></circle>
+                <circle id="Oval" fill="#66B1AA" opacity="0.200000003" cx="3.5" cy="65.5" r="3.5"></circle>
+                <circle id="Oval-Copy" fill="#66B1AA" opacity="0.200000003" cx="21.5" cy="140.5" r="2.5"></circle>
+                <circle id="Oval-Copy-2" fill="#EAF7F6" opacity="0.800000012" cx="107.5" cy="2.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

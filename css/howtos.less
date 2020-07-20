@@ -1,0 +1,254 @@
+header.header {
+  position: relative;
+  background-color: #3E3E3E;
+
+  .navbar-toggler {
+    border: none;
+    outline: none;
+  }
+
+  nav.navbar {
+    position: relative;
+    z-index: 1;
+
+    // height: 72px;
+    .navbar-brand {
+      img {
+        width: 50%;
+      }
+    }
+
+    .navbar-nav {
+      padding-left: 15px;
+
+      .dropdown-menu {
+        background: rgba(0, 0, 0, .5);
+
+        a {
+          font-size: 14px;
+        }
+      }
+
+      li {
+        margin-right: 25px;
+        font-size: 14px;
+        border: 1px solid transparent;
+
+        &:hover {
+          border-bottom: 1px solid #FF9756;
+        }
+
+        a {
+          // transition: all ease .5s;
+          font-family: 'Manrope3-Regular';
+          // font-weight: 400;
+          color: #fff !important;
+
+          &:hover {
+            color: #FF9756 !important;
+            // font-family: 'Manrope3-semibold';
+            // font-weight: 700;
+          }
+        }
+      }
+
+      li.dropdown {
+        display: flex;
+        align-items: center;
+      }
+
+      li:last-child {
+        margin-right: 0;
+
+        &:hover {
+          border-bottom: 1px solid transparent;
+          // font-family: 400;
+        }
+
+        .dropdown-item:hover,
+        .dropdown-item:focus {
+          background-color: #ccc;
+        }
+
+        a {
+          &:hover {
+            color: #fff !important;
+            // font-family: 'Manrope3-Regular';
+            // font-weight: 400;
+          }
+        }
+      }
+    }
+  }
+}
+
+.howtos {
+  background-color: #fffbfd;
+  padding: 80px 0;
+
+  h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 33px;
+    line-height: 56px;
+    font-family: 'Playfair';
+    margin-bottom: 36px;
+
+    span {
+      color: #FA9656;
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      position: relative;
+      border: 1px solid #D9D9D9;
+      padding: 14px 23px;
+      margin-bottom: 20px;
+
+      .isShow {
+        position: absolute;
+        right: 16px;
+        top: 9px;
+        cursor: pointer;
+
+        img {
+          transition: all ease .8s;
+        }
+      }
+
+      .hide {
+        display: none;
+      }
+
+      .toRotate45 {
+        transform: rotate(45deg);
+      }
+
+      h4 {
+        margin: 0;
+        padding: 0;
+        padding-right: 10px;
+        font-size: 16px;
+        line-height: 22px;
+        color: #333;
+      }
+
+      p {
+        margin: 0;
+        padding: 0;
+        margin-top: 14px;
+        font-size: 14px;
+        line-height: 24px;
+        color: #666;
+        padding-right: 76px;
+      }
+    }
+
+    li:last-child {
+      margin: 0;
+    }
+  }
+}
+
+.footer {
+  padding-top: 100px;
+  background-color: #fffbfd;
+
+  .msg {
+    border-top: 1px solid #E6E6E6;
+    border-bottom: 1px solid #E6E6E6;
+
+    .footer-link {
+      // display: flex;
+      //   justify-content: space-between;
+      // align-items: center;
+      // min-height: 126px;
+      padding: 40px;
+
+      //   .all-links {
+      //     display: flex;
+      //     justify-content: space-betweens;
+      .cen {
+        position: relative;
+        top: 50%;
+
+        // transform: translateY(-50%);
+        .logo {
+          display: flex;
+          align-items: center;
+
+          img {
+            width: 50%;
+            vertical-align: baseline;
+          }
+        }
+      }
+
+      ul {
+        list-style: none;
+        // margin-bottom: 10px;
+        margin: 20px 0;
+      }
+
+      .links,
+      .share {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .links {
+        display: flex;
+        align-items: center;
+
+        li {
+          margin-right: 70px;
+          font-family: 'Manrope3-Regular';
+
+
+          a {
+            color: #666666;
+            font-size: 14px;
+            // transition: all ease .5s;
+
+            &:hover {
+              // font-family: 'Manrope3-semibold';
+              font-weight: 700;
+            }
+          }
+        }
+
+        li:nth-child(3) {
+          margin-right: 0px;
+          font-size: 14px;
+          color: #666;
+
+          a {
+            &:hover {
+              font-family: 'Manrope3-semibold';
+            }
+          }
+        }
+      }
+
+
+      .share {
+        li {
+          margin-right: 9px;
+        }
+      }
+    }
+  }
+
+  .copyright {
+    height: 57px;
+    text-align: center;
+    line-height: 57px;
+    font-size: 12px;
+    color: #999999;
+  }
+}

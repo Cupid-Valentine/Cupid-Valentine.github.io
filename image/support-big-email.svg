@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="151px" height="132px" viewBox="0 0 151 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>email icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="support-copy" transform="translate(-772.000000, -409.000000)">
+            <g id="email-icon" transform="translate(772.000000, 409.000000)">
+                <path d="M87.5769114,113.147206 C141.887657,107.103775 135.981882,100.536501 139.616387,74.2061769 C141.887657,57.7518722 133.63283,49.8157611 126.454754,41.6663388 C116.516147,30.3828263 104.993165,17 87.5769114,17 C66.9481669,17 66.9481669,27.2637302 58.6253437,31.8535406 C43.2358215,40.3404429 39.1899736,48.2632583 39.1899736,65.4946497 C39.1899736,92.0449675 33.2661663,119.190637 87.5769114,113.147206 Z" id="Oval-3-Copy" fill="#EAA363" opacity="0.200000003"></path>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="69" y="50" width="33" height="30"></rect>
+                <circle id="Oval-5-Copy-2" fill="#FBEADC" opacity="0.300000012" cx="36.5" cy="6.5" r="5.5"></circle>
+                <circle id="Oval-5-Copy-5" fill="#FBEADC" opacity="0.5" cx="5.5" cy="98.5" r="5.5"></circle>
+                <circle id="Oval-5-Copy-6" fill="#FBEADC" opacity="0.300000012" cx="25.5" cy="57.5" r="5.5"></circle>
+                <circle id="Oval-5-Copy-3" fill="#EAA363" opacity="0.300000012" cx="145.5" cy="119.5" r="5.5"></circle>
+                <circle id="Oval-Copy-3" fill="#EAA363" opacity="0.200000003" cx="121.5" cy="2.5" r="2.5"></circle>
+                <circle id="Oval-Copy-4" fill="#EAA363" opacity="0.200000003" cx="66.5" cy="129.5" r="2.5"></circle>
+                <g id="邮箱" transform="translate(57.000000, 35.000000)" fill="#EAA363" fill-rule="nonzero">
+                    <path d="M30,0 C13.5,0 0,13.5 0,30 C0,46.5 13.5,60 30,60 C46.5,60 60,46.5 60,30 C60,13.5 46.5,0 30,0 Z M18,18.1875 L42,18.1875 C43.6875,18.1875 45,19.5 45,21.1875 L30,29.4375 L15,21.1875 C15,19.5 16.3125,18.1875 18,18.1875 Z M45,38.8125 C45,40.5 43.6875,41.8125 42,41.8125 L18,41.8125 C16.3125,41.8125 15,40.5 15,38.8125 L15,24.1875 L29.625,32.0625 C29.8125,32.25 30.1875,32.25 30.375,32.0625 L45,24.1875 L45,38.8125 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

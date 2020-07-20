@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Manrope3-Regular';
+  src: url(../fonts/manrope/manrope-regular-6.otf);
+}
+@font-face {
+  font-family: 'Manrope3-semibold';
+  src: url(../fonts/manrope/manrope-semibold-7.otf);
+}
+@font-face {
+  font-family: 'Manrope3-medium';
+  src: url(../fonts/manrope/manrope-medium-5.otf);
+}
+@font-face {
+  font-family: 'Playfair';
+  src: url(../fonts/Playfair_Display/static/PlayfairDisplay-Bold.ttf);
+}
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1080px;
+  }
+}
+body {
+  background-color: #f0f2f5;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.navbar-nav .nav-link.active {
+  font-family: 'Manrope3-semibold' !important;
+}
+.con_1440 {
+  max-width: 1440px;
+  margin: 0 auto;
+}

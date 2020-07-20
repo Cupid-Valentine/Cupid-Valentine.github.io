@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>点1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-2" transform="translate(-699.000000, -514.000000)">
+            <g id="点1" transform="translate(699.000000, 514.000000)">
+                <circle id="Oval-3" fill="#FA9656" cx="9" cy="9" r="9"></circle>
+                <path d="M5.72792206,9.80565862 L12.0710678,9.80565862 C12.5715282,9.80565862 12.9772315,10.2113619 12.9772315,10.7118223 C12.9772315,11.2122827 12.5715282,11.617986 12.0710678,11.617986 L4.82175838,11.617986 C4.321298,11.617986 3.9155947,11.2122827 3.9155947,10.7118223 L3.9155947,6.1810039 C3.9155947,5.68054352 4.321298,5.27484022 4.82175838,5.27484022 C5.32221876,5.27484022 5.72792206,5.68054352 5.72792206,6.1810039 L5.72792206,9.80565862 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(8.446413, 8.446413) rotate(-45.000000) translate(-8.446413, -8.446413) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
