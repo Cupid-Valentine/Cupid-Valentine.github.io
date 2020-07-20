@@ -108,6 +108,7 @@ header.header nav.navbar .navbar-nav li:last-child a:hover {
   width: 62px;
   height: 56px;
   padding: 10px;
+  margin-right: 10px;
 }
 .hv {
   background-color: #fdfdfd;
