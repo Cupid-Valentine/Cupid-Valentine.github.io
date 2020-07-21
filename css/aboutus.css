@@ -56,7 +56,7 @@ header.header nav.navbar .navbar-nav li:last-child a:hover {
 }
 .banner {
   height: 405px;
-  background: url('/image/aboutus-banner.png');
+  background: url('/image/aboutus-banner.png') center center;
 }
 .banner .content {
   display: flex;
